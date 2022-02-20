@@ -13,8 +13,16 @@ Here are some facts about me.
 - 😄 Pronouns: Mugiwara 
 - ⚡ Fun fact: Watch One-Piece ? Me too !!
 
+### ⏱️ Currently developing
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SujayDas1999&repo=Re-Shop)
 
+### 🌐 TOP Languages used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SujayDas1999)
 
+<!-- ### ⌛ Wakatime Status
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SujayDas1999)
+ -->
  ### 🔋 Github - Stats
  <img align="left" alt="Inu github stats" src="https://github-readme-stats.vercel.app/api?username=SujayDas1999&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
