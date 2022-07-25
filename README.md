@@ -16,7 +16,7 @@ Here are some facts about me.
 ### ⏱️ Currently developing
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SujayDas1999&repo=Re-Shop)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SujayDas1999&repo=DatingZone)
+s![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SujayDas1999&repo=DatingZone)
 
 
 ### 🌐 TOP Languages used
